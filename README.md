@@ -1,0 +1,2 @@
+# MercerPhotography
+My competition website
